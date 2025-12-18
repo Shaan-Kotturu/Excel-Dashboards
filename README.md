@@ -58,6 +58,11 @@ The purpose of this repository is to:
 
 ---
 
+## 🚀 Future Additions
+
+<img width="1250" height="890" alt="image" src="https://github.com/user-attachments/assets/faf12979-67d6-429a-bc82-05985e6f433a" />
+
+
 ## 📬 Notes
 This repository is part of my broader learning journey in data analytics and visualization.  
 Feedback and suggestions are always welcome.
