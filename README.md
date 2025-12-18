@@ -63,6 +63,13 @@ The purpose of this repository is to:
 <img width="1250" height="890" alt="image" src="https://github.com/user-attachments/assets/faf12979-67d6-429a-bc82-05985e6f433a" />
 
 
+## 📂 Files
+- `dashboard.png` – Screenshot of the final Excel dashboard
+- `road_accident_dashboard.xlsx` – Not uploaded due to GitHub file size limits (>25 MB)
+
+The Excel file includes cleaned data, pivot tables, and the interactive dashboard.
+
+
 ## 📬 Notes
 This repository is part of my broader learning journey in data analytics and visualization.  
 Feedback and suggestions are always welcome.
