@@ -51,14 +51,7 @@ The purpose of this repository is to:
 
 ---
 
-## 🚀 Future Additions
-- Additional Excel dashboards covering different business scenarios
-- Improved automation using Power Query
-- Advanced KPI and trend analysis
-
----
-
-## 🚀 Future Additions
+## 🚀 Dashboard Snippet
 
 <img width="1250" height="890" alt="image" src="https://github.com/user-attachments/assets/faf12979-67d6-429a-bc82-05985e6f433a" />
 
